@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1889d224-0ac0-4236-bc00-965c0d7b720c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <interpreter composer="composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PHPCSFixerBlackList">
+    <option name="filePaths">
+      <option value="$PROJECT_DIR$/app/classes/app.php" />
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1kpCZm2X3T0Q7QebspzXefLsBW4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1889d224-0ac0-4236-bc00-965c0d7b720c" name="Default Changelist" comment="" />
+      <created>1606388205564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606388205564</updated>
+      <workItem from="1606388206752" duration="9000" />
+      <workItem from="1606388218704" duration="171000" />
+      <workItem from="1606392690521" duration="16000" />
+      <workItem from="1606393733648" duration="4000" />
+      <workItem from="1606460237744" duration="1260000" />
+      <workItem from="1606462101547" duration="12851000" />
+      <workItem from="1606479441547" duration="4000" />
+      <workItem from="1606720399458" duration="2894000" />
+      <workItem from="1606723433493" duration="234000" />
+      <workItem from="1606723693192" duration="6406000" />
+      <workItem from="1606740499934" duration="6000" />
+      <workItem from="1606806068477" duration="13834000" />
+      <workItem from="1606892646116" duration="14616000" />
+      <workItem from="1606980308888" duration="6699000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1025" y="311" key="#PHP_CS_Fixer_Ignored_Files" timestamp="1606721298544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1025" y="311" key="#PHP_CS_Fixer_Ignored_Files/0.0.1536.824@0.0.1536.824" timestamp="1606721298544" />
+    <state x="767" y="153" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606987349842">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="767" y="153" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1606987349842" />
+    <state x="885" y="321" width="445" height="238" key="ComposerInitDialogKey" timestamp="1606728203784">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="885" y="321" width="445" height="238" key="ComposerInitDialogKey/0.0.1536.824@0.0.1536.824" timestamp="1606728203784" />
+    <state x="871" y="129" key="NewPhpClassDialog" timestamp="1606988174504">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="871" y="129" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1606988174504" />
+    <state x="607" y="346" key="NewPhpFileDialog" timestamp="1606894988406">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="607" y="346" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1606894988406" />
+    <state x="703" y="-8" width="579" height="801" key="find.popup" timestamp="1606814445056">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="703" y="-8" width="579" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1606814445056" />
+    <state x="215" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1606981321477">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="215" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1606981321477" />
+  </component>
+</project>
