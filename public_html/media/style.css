@@ -20,7 +20,8 @@ main{
     font-size: xx-large;
 }
 .header{
-    color: aliceblue;
+    color: cadetblue;
+    text-align: center;
 }
 
 /* ----------------------
