@@ -8,7 +8,6 @@ use Core\View;
 require '../bootloader.php';
 
 
-$my_pixels = App::$db->getRowsWhere('pixels');
 $nav = new Navigation();
 
 $content = new View([

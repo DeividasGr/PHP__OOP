@@ -27,6 +27,7 @@ class Navigation extends View
                     '/admin/add.php' => 'Add',
                     '/logout.php' => 'Logout',
                     '/my.php' => 'My',
+                    '/admin/list.php' => 'List',
                 ];
         } else {
             return $nav + [

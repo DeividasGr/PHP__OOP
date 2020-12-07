@@ -3,6 +3,7 @@
 namespace Core\Views;
 
 use Core\View;
+use Exception;
 
 class Form extends View
 {
@@ -78,4 +79,19 @@ class Form extends View
 
         return $is_valid;
     }
+
+    public function fill($new_values): void
+    {
+        foreach ($this->data['fields'] as $field_name => &$field_value) {
+            if (key_exists($field_name, $new_values)) {
+                $field_value['value'] = $new_values[$field_name];
+            }
+        }
+    }
+
+    public static function action()
+    {
+        return filter_input(INPUT_POST, 'action', FILTER_SANITIZE_SPECIAL_CHARS);
+    }
+
 }

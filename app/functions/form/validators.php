@@ -51,3 +51,14 @@ function validate_login(array $filtered_input, array &$form): bool
 
     return false;
 }
+
+function validate_row_exists($field_value, array &$field): bool
+{
+    if (App::$db->rowExists('pixels', $field_value)) {
+        return true;
+    }
+
+    $field['error'] = 'You are dead wrong';
+
+    return false;
+}
